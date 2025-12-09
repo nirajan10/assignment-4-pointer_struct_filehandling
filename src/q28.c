@@ -1,0 +1,1 @@
+// Write a recursive function named calculateBinary that takes an integer n as input and returns its binary representation as a string.

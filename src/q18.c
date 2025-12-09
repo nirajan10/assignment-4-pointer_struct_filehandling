@@ -1,0 +1,1 @@
+// Write a function named findPrimeNumbers that takes an integer n as input and prints all prime numbers from 1 to n.

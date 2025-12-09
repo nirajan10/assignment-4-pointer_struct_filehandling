@@ -1,0 +1,1 @@
+// Write a recursive function named calculateFactorial that takes an integer n as input and returns its factorial.

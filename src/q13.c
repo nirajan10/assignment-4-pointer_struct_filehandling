@@ -1,0 +1,1 @@
+// Write a function named findFactorial that takes an integer as input and returns its factorial.

@@ -1,0 +1,1 @@
+// Write a function named reverseArray that takes an array of integers as input and reverses the order of the elements in the array.

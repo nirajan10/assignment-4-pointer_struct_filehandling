@@ -1,0 +1,1 @@
+// Write a function named calculateAverage that takes an array of integers as input and returns the average of the numbers.

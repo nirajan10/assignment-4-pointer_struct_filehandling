@@ -1,0 +1,1 @@
+// Write a function named calculateGCD that takes two integers as input and returns their greatest common divisor (GCD).
