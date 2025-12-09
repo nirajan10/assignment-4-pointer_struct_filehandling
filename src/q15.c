@@ -1,1 +1,2 @@
-// Write a function named countOccurrences that takes a string and a character as input and returns the number of times the character appears in the string.
+// Write a C program that stores student records (name, roll number, and marks) into a 
+// file and then reads and displays all stored records.

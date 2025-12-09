@@ -1,1 +1,1 @@
-// Write a C program to merge two sorted arrays into a single sorted array.
+// Write a C program that dynamically allocates memory for a string entered by the user and finds its length using pointers.

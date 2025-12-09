@@ -43,23 +43,7 @@ jobs:
             tests/testq12.sh \
             tests/testq13.sh \
             tests/testq14.sh \
-            tests/testq15.sh \
-            tests/testq16.sh \
-            tests/testq17.sh \
-            tests/testq18.sh \
-            tests/testq19.sh \
-            tests/testq20.sh \
-            tests/testq21.sh \
-            tests/testq22.sh \
-            tests/testq23.sh \
-            tests/testq24.sh \
-            tests/testq25.sh \
-            tests/testq26.sh \
-            tests/testq27.sh \
-            tests/testq28.sh \
-            tests/testq29.sh \
-            tests/testq30.sh \
-            tests/test_pdf.sh;  do
+            tests/testq15.sh;  do
               echo "Running $t ..."
               if ! $t; then
                 failed=1   # record failure but continue

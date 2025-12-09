@@ -1,1 +1,0 @@
-//  Write a recursive function named countOccurrences that takes a string and a character as input and returns the number of times the character appears in the string.

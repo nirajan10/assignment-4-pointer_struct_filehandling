@@ -1,1 +1,1 @@
-// Write a C program to sort an array of integers in ascending order using a sorting algorithm of your choice (e.g., bubble sort, selection sort, insertion sort).
+// Write a C program that checks if a given string is a palindrome using pointers.

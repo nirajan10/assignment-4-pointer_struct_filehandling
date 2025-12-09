@@ -1,1 +1,2 @@
-// Write a function named calculateAverage that takes an array of integers as input and returns the average of the numbers.
+// Write a C program to create a file and write a user-entered string into it. Then display a 
+// message confirming that the file has been written successfully.

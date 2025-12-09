@@ -1,1 +1,1 @@
-// Write a function named findFactorial that takes an integer as input and returns its factorial.
+// Write a C program that copies the contents of one file to another file.

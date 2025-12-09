@@ -1,1 +1,0 @@
-// Write a recursive function named calculateGCD that takes two integers a and b as input and returns their greatest common divisor (GCD).

@@ -1,1 +1,1 @@
-// Implement a C program to reverse the elements of an array.
+// Write a C program that reverses an array of characters using pointers.

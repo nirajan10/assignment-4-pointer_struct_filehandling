@@ -1,1 +1,1 @@
-// Write a C program to find the maximum and minimum elements in an array.
+// Write a C program that swaps the values of two integers using pointers.

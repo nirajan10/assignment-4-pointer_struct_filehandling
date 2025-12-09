@@ -1,1 +1,1 @@
-// Write a function named convertTemperature that takes a temperature value in Celsius and converts it to Fahrenheit. The function should return the converted temperature.
+// Write a C program that counts the number of characters, words, and lines in a text file.

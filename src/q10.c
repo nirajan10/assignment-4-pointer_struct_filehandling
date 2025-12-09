@@ -1,1 +1,2 @@
-// Write a C program to concatenate two strings without using the built-in string functions.
+// Write a C program that defines a structure Car with members: model, year, and mileage. 
+// Store information for 3 cars and find the car with the lowest mileage.

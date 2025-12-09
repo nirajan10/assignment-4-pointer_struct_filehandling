@@ -3,78 +3,43 @@
 ## Instructions
 
 1. Write code in the corresponding `src/` file for each programming task.
-2. Upload a `PDF` containing all answers with output screenshot in the docs/ folder
-   - You can create a doc and convert it to PDF online.
-   - Name pdf as `answer.pdf`
-   - Your first line of pdf should be `Name: Firstname-Lastname`. Eg: Name: Nirajan-Thakuri
-1. Do not change file names — tests depend on them.
-2. Commit and push your changes to GitHub.
+2. Do not change file names — tests depend on them.
+3. Commit and push your changes to GitHub.
 
 ---
 
 ## Questions
 
-**Q1.** Write a C program to find the maximum and minimum elements in an array.
+**Q1.** Write a C program that swaps the values of two integers using pointers.
 
-**Q2.** Implement a C program to reverse the elements of an array.
+**Q2.** Write a C program that reverses an array of characters using pointers.
 
-**Q3.** Write a C program to sort an array of integers in ascending order using a sorting algorithm of your choice (e.g., bubble sort, selection sort, insertion sort).
+**Q3.** Write a C program that checks if a given string is a palindrome using pointers.
 
-**Q4.** Implement a C program to find the second largest element in an array.
+**Q4.** Write a C program that dynamically allocates memory for an integer array of size n, where n is entered by the user. Prompt the user to enter n elements and display them using pointers.
 
-**Q5.** Write a C program to merge two sorted arrays into a single sorted array.
+**Q5.** Write a C program that dynamically allocates memory for a string entered by the user and finds its length using pointers.
 
-**Q6.** Write a C program to find the length of a string without using the built-in string functions.
+**Q6.** Write a C program that defines a structure called Student with members: name, roll number, and marks. Prompt the user to enter data for one student and display the information.
 
-**Q7.** Implement a C program to reverse a string.
+**Q7.** Write a C program that defines a structure Employee with members: name, employee ID, and salary. Take input for 5 employees and display the details of the employee with the highest salary.
 
-**Q8.** Write a C program to check if a given string is a palindrome.
+**Q8.** Write a C program that defines a structure Book with members: title, author, and price. Allow the user to enter details of n books and then display all books whose price is above a user-defined value.
 
-**Q9.** Implement a C program to count the occurrence of a specific character in a string.
+**Q9.** Write a C program that uses a structure Point with members x and y, representing coordinates. Write a function that takes two Point structures and returns the distance between them.
 
-**Q10.** Write a C program to concatenate two strings without using the built-in string
-functions.
+**Q10.** Write a C program that defines a structure Car with members: model, year, and mileage. Store information for 3 cars and find the car with the lowest mileage.
 
-**Q11.** Write a function named calculateAverage that takes an array of integers as input and returns the average of the numbers.
+**Q11.** Write a C program to create a file and write a user-entered string into it. Then display a message confirming that the file has been written successfully.
 
-**Q12.** Write a function named isPalindrome that takes a string as input and returns 1 if it is a palindrome (reads the same forwards and backwards), and 0 otherwise.
+**Q12.** Write a C program to read the contents of a text file and display them on the screen.
 
-**Q13.** Write a function named findFactorial that takes an integer as input and returns its factorial.
+**Q13.** Write a C program that copies the contents of one file to another file.
 
-**Q14.** Write a function named convertTemperature that takes a temperature value in Celsius and converts it to Fahrenheit. The function should return the converted temperature.
+**Q14.** Write a C program that counts the number of characters, words, and lines in a text file.
 
-**Q15.** Write a function named countOccurrences that takes a string and a character as input and returns the number of times the character appears in the string. 
-
-**Q16.** Write a function named reverseArray that takes an array of integers as input and reverses the order of the elements in the array.
-
-**Q17.** Write a function named calculatePower that takes two integers, base and exponent, as input and returns the result of raising the base to the exponent.
-
-**Q18.** Write a function named findPrimeNumbers that takes an integer n as input and prints all prime numbers from 1 to n.
-
-**Q19.** Write a function named calculateFactorialSeries that takes an integer n as input and prints the factorial series up to n.
-
-**Q20.** Write a function named calculateGCD that takes two integers as input and returns their greatest common divisor (GCD).
-
-**Q21.** Write a recursive function named calculateFactorial that takes an integer n as input and returns its factorial.
-
-**Q22.** Write a recursive function named calculateFibonacci that takes an integer n as input and returns the nth Fibonacci number. The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the two preceding numbers.
-
-**Q23.** Write a recursive function named calculateGCD that takes two integers a and b as input and returns their greatest common divisor (GCD).
-
-**Q24.** Write a recursive function named calculatePower that takes two integers base and exponent as input and returns the result of raising the base to the exponent.
-
-**Q25.** Write a recursive function named calculateSumOfDigits that takes an integer n as input and returns the sum of its digits.
-
-**Q26.** Write a recursive function named reverseString that takes a string as input and returns the reversed string.
-
-**Q27.** Write a recursive function named printTriangle that takes an integer n as input and prints a triangle of asterisks (*) with n rows.
-
-**Q28.** Write a recursive function named calculateBinary that takes an integer n as input and returns its binary representation as a string.
-
-**Q29.** Write a recursive function named isPalindrome that takes a string as input and returns 1 if it is a palindrome (reads the same forwards and backwards), and 0 otherwise.
-
-**Q30.** Write a recursive function named countOccurrences that takes a string and a character as input and returns the number of times the character appears in the string.
+**Q15.** Write a C program that stores student records (name, roll number, and marks) into a file and then reads and displays all stored records.
 
 ---
 
-## Deadline: 23:59, Saturday, 15th Nov, 2025
+## Deadline: ---
